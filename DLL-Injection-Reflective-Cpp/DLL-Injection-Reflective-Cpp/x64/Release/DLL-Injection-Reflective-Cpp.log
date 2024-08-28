@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Users\misiu\Documents\GitHub\DLL-Injection-Reflective-Cpp\DLL-Injection-Reflective-Cpp\DLL-Injection-Reflective-Cpp\Main.cpp(117,17): warning C4312: 'type cast': conversion from '__unaligned DWORD' to 'LPCSTR' of greater size
+Main.obj : error LNK2001: unresolved external symbol __imp_InternetOpenUrlW
+Main.obj : error LNK2001: unresolved external symbol __imp_InternetOpenW
+Main.obj : error LNK2001: unresolved external symbol __imp_InternetCloseHandle
+Main.obj : error LNK2001: unresolved external symbol __imp_InternetReadFile
+C:\Users\misiu\Documents\GitHub\DLL-Injection-Reflective-Cpp\DLL-Injection-Reflective-Cpp\x64\Release\DLL-Injection-Reflective-Cpp.exe : fatal error LNK1120: 4 unresolved externals

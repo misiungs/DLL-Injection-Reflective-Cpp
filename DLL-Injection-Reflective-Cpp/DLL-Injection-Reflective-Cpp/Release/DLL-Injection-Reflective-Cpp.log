@@ -1,0 +1,6 @@
+﻿  Main.cpp
+Main.obj : error LNK2001: unresolved external symbol __imp__InternetOpenUrlW@24
+Main.obj : error LNK2001: unresolved external symbol __imp__InternetOpenW@20
+Main.obj : error LNK2001: unresolved external symbol __imp__InternetCloseHandle@4
+Main.obj : error LNK2001: unresolved external symbol __imp__InternetReadFile@16
+C:\Users\misiu\Documents\GitHub\DLL-Injection-Reflective-Cpp\DLL-Injection-Reflective-Cpp\Release\DLL-Injection-Reflective-Cpp.exe : fatal error LNK1120: 4 unresolved externals
